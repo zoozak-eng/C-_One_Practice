@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Desktop\C# practice\Test Score Avreage\Test Score Avreage\bin\Debug\Test Score Avreage.exe.config
+C:\Users\pc\OneDrive\Desktop\C# practice\Test Score Avreage\Test Score Avreage\bin\Debug\Test Score Avreage.exe
+C:\Users\pc\OneDrive\Desktop\C# practice\Test Score Avreage\Test Score Avreage\bin\Debug\Test Score Avreage.pdb
+C:\Users\pc\OneDrive\Desktop\C# practice\Test Score Avreage\Test Score Avreage\obj\Debug\Test Score Avreage.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Test Score Avreage\Test Score Avreage\obj\Debug\Test_Score_Avreage.Form1.resources
+C:\Users\pc\OneDrive\Desktop\C# practice\Test Score Avreage\Test Score Avreage\obj\Debug\Test_Score_Avreage.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\C# practice\Test Score Avreage\Test Score Avreage\obj\Debug\Test Score Avreage.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Test Score Avreage\Test Score Avreage\obj\Debug\Test Score Avreage.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Test Score Avreage\Test Score Avreage\obj\Debug\Test Score Avreage.exe
+C:\Users\pc\OneDrive\Desktop\C# practice\Test Score Avreage\Test Score Avreage\obj\Debug\Test Score Avreage.pdb
+C:\Users\pc\OneDrive\Desktop\C# practice\Test Score Avreage\Test Score Avreage\obj\Debug\Test Score Avreage.exe.config

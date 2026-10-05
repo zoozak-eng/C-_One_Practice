@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Desktop\C# practice\Range Cheaker\Range Cheaker\bin\Debug\Range Cheaker.exe.config
+C:\Users\pc\OneDrive\Desktop\C# practice\Range Cheaker\Range Cheaker\bin\Debug\Range Cheaker.exe
+C:\Users\pc\OneDrive\Desktop\C# practice\Range Cheaker\Range Cheaker\bin\Debug\Range Cheaker.pdb
+C:\Users\pc\OneDrive\Desktop\C# practice\Range Cheaker\Range Cheaker\obj\Debug\Range Cheaker.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Range Cheaker\Range Cheaker\obj\Debug\Range_Cheaker.Form1.resources
+C:\Users\pc\OneDrive\Desktop\C# practice\Range Cheaker\Range Cheaker\obj\Debug\Range_Cheaker.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\C# practice\Range Cheaker\Range Cheaker\obj\Debug\Range Cheaker.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Range Cheaker\Range Cheaker\obj\Debug\Range Cheaker.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Range Cheaker\Range Cheaker\obj\Debug\Range Cheaker.exe
+C:\Users\pc\OneDrive\Desktop\C# practice\Range Cheaker\Range Cheaker\obj\Debug\Range Cheaker.pdb
+C:\Users\pc\OneDrive\Desktop\C# practice\Range Cheaker\Range Cheaker\obj\Debug\Range Cheaker.exe.config

@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Desktop\C# practice\Overtime Assigmnt\Overtime Assigmnt\bin\Debug\Overtime Assigmnt.exe.config
+C:\Users\pc\OneDrive\Desktop\C# practice\Overtime Assigmnt\Overtime Assigmnt\bin\Debug\Overtime Assigmnt.exe
+C:\Users\pc\OneDrive\Desktop\C# practice\Overtime Assigmnt\Overtime Assigmnt\bin\Debug\Overtime Assigmnt.pdb
+C:\Users\pc\OneDrive\Desktop\C# practice\Overtime Assigmnt\Overtime Assigmnt\obj\Debug\Overtime Assigmnt.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Overtime Assigmnt\Overtime Assigmnt\obj\Debug\Overtime_Assigmnt.Form1.resources
+C:\Users\pc\OneDrive\Desktop\C# practice\Overtime Assigmnt\Overtime Assigmnt\obj\Debug\Overtime_Assigmnt.Properties.Resources.resources
+C:\Users\pc\OneDrive\Desktop\C# practice\Overtime Assigmnt\Overtime Assigmnt\obj\Debug\Overtime Assigmnt.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Overtime Assigmnt\Overtime Assigmnt\obj\Debug\Overtime Assigmnt.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Desktop\C# practice\Overtime Assigmnt\Overtime Assigmnt\obj\Debug\Overtime Assigmnt.exe
+C:\Users\pc\OneDrive\Desktop\C# practice\Overtime Assigmnt\Overtime Assigmnt\obj\Debug\Overtime Assigmnt.pdb
+C:\Users\pc\OneDrive\Desktop\C# practice\Overtime Assigmnt\Overtime Assigmnt\obj\Debug\Overtime Assigmnt.exe.config
