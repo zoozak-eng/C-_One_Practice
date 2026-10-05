@@ -28,12 +28,13 @@ namespace Overtime_Assigmnt
             double houres, hourly, groos, overtime,
             overtimepay;
 
-            //Get info From The User
-            houres = double.Parse(txtHoursWorked.Text);
-            hourly = double.Parse(txtHourly.Text);
+           
             //using nasted if for the Calculate 
             try
             {
+                //Get info From The User
+                houres = double.Parse(txtHoursWorked.Text);
+                hourly = double.Parse(txtHourly.Text);
                 if (houres > 40)
                 {
 
@@ -54,10 +55,6 @@ namespace Overtime_Assigmnt
                     groos = houres * hourly;
                 }
                 lbloutput.Text = groos.ToString("c");
-
-            
-                   
-
             }
             catch
             {
