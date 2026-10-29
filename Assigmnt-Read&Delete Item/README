@@ -1,0 +1,29 @@
+# Explanation of Read and Delete Functions
+
+### Button 1: Creating a New File
+
+The first button is used to create a new text file using the `File.CreateText()` function. The `StreamWriter` class is used to write information into the file, and the `WriteLine()` function writes text line by line. Finally, the `Close()` function closes the file after writing is completed.
+
+### Button 2: Reading the Entire File Using Peek() and ReadLine()
+
+The second button is used to read all the text in the file line by line. The `StreamReader` class is used to read the file, while the `Peek()` function checks whether there are more characters to read. The `while` loop continues as long as the end of the file has not been reached. The `ReadLine()` function reads each line and displays it in the ListBox.
+
+### Button 3: Reading the First Character Using Peek()
+
+The third button demonstrates another way to use the `Peek()` function without a loop. It reads the first character of the file without moving the reading position. The character is stored in an integer variable and converted to a character using `(char)`. Finally, the character is displayed in the ListBox.
+
+### Button 4: Displaying the File Size Using FileInfo and Length
+
+The fourth button is used to display the size of the file in bytes. The `FileInfo` class creates an object that represents the file, and the `Length` property returns the file size in bytes. The result is then displayed in the ListBox.
+
+### Button 5: Reading the Entire File Using ReadToEndAsync()
+
+The fifth button uses the `StreamReader` class to read the entire file asynchronously. The `ReadToEndAsync()` function reads all the text in the file, while the `await` keyword waits for the reading operation to finish before continuing. The complete text is stored in a string variable and displayed as one item in the ListBox.
+
+### Button 6: Checking and Deleting a File
+
+The sixth button is used to check whether a file exists and delete it if it does. The `File.Exists()` function checks whether the specified file exists. If the file exists, the `File.Delete()` function deletes it and displays a success message. Otherwise, an error message informs the user that the file does not exist.
+
+### Button 7: Deleting a Folder
+
+The seventh button is used to delete a folder using the `Directory.Delete()` function. The folder path specifies the location of the folder to be deleted. The second argument, `true`, allows the folder and its contents, including files and subfolders, to be deleted recursively. Finally, a message box displays a confirmation message.

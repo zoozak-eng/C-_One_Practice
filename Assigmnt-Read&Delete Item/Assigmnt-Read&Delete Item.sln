@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37824.6 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assigmnt-Read&Delete Item", "Assigmnt-Read&Delete Item\Assigmnt-Read&Delete Item.csproj", "{A0420ACF-5F2A-4D1F-ACA3-D9FB6961842A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0420ACF-5F2A-4D1F-ACA3-D9FB6961842A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0420ACF-5F2A-4D1F-ACA3-D9FB6961842A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0420ACF-5F2A-4D1F-ACA3-D9FB6961842A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0420ACF-5F2A-4D1F-ACA3-D9FB6961842A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8F42A75-B9E0-45B4-A282-09D66B12FC71}
+	EndGlobalSection
+EndGlobal
